@@ -24,7 +24,7 @@ This dataset contain 2.3 Millions row of data in 24 columns divided. Dataset hav
 
 ## Process
 1. DATA COLLECTION
-  * Download dataset fron Internet  using 'opendata'
+  * Download dataset fron Internet  using 'opendataset'
 
 2. EXPLORATORY ANALYSIS
   * Read Dataset with Pandas
